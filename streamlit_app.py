@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("tugas informatika")
+st.title("sapi")
 st.write(
-    "tugas informatika xc"
+    "rapip sapi"
 )
+st.image("IMG-20250526-WA0022.jpg")
