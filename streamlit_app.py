@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("sapi")
+st.title("Rafif Gendut")
 st.write(
-    "rapip sapi"
+    "Rapip cinta Ara"
 )
-st.image("IMG-20250526-WA0022.jpg")
+st.image("IMG-20250526-WA0022.jpg", caption="Foto Rafif")
